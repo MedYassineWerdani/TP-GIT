@@ -4,4 +4,10 @@ body{
 table{
     width: auto;
     background-color: blueviolet;
+    table-layout: auto;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
 }
